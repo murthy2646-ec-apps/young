@@ -1,0 +1,14 @@
+<project>
+  <modelversion>4.0.0</modelversion>
+    <groupId>com.eca</groupId>
+    <artifactId>flipkart</artifactId>
+    <version>1.0</version>
+    <packaging>jar</.packaging>
+  <dependencies>
+    <groupId>com.eca</groupId>
+    <artifactId>flipkart</artifactId>
+    <version>1.0</version>
+    <packaging>jar</.packaging>
+    </dependency>
+  </dependencies>
+ </project>
